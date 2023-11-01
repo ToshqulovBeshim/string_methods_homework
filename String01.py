@@ -5,7 +5,7 @@ def main(s):
         s: str
     Retu rns:
         str: answer
-    """
+    """ 
     #a=s.capitalize()
     b=s.title()
     # c=s.lower()

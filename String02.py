@@ -5,7 +5,7 @@ def main(s):
         s: str
     Returns:
         str: answer
-    """
+    """ 
     a=s.upper()
     return a
 s="sdfg dfgbmn dfnvb sdfvbdv d c bdfcb eygbc "

@@ -4,7 +4,7 @@ def main(s):
     Args:
         s: str
     Returns:
-        bool: answer
+        bool: an swer
     """
     if s.islower(): 
         return True
