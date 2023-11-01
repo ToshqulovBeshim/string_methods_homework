@@ -3,7 +3,7 @@ def main(s):
     A variable of type str is given. Check that it consists only of numbers.
     Args:
         s: str
-    Returns:
+    Returns: 
         bool: answer
     """
     if s.isdigit():
