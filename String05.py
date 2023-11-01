@@ -6,5 +6,7 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    a=s.capitalize()
+    return a
+s="nfjv nifvg jbn"
+print(main(s))

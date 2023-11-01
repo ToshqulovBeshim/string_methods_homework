@@ -6,5 +6,9 @@ def main(s):
     Returns:
         bool: answer
     """
-    
-    return
+    if s.isalpha():
+        return True
+    else:
+        return False
+s="sjhgf"
+print(main(s))

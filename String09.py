@@ -6,5 +6,10 @@ def main(s):
     Returns:
         int: answer
     """
-    
-    return
+    d=0
+    for i in range(len(s)):
+       if "a"==s[i]:
+           d+=1   
+    return d
+a="isuydgvhsjajhsgddhj"
+print(main(a))

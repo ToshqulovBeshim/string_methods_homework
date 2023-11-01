@@ -6,5 +6,11 @@ def main(s):
     Returns:
         bool: answer
     """
+    if s.isdigit():
+        return True
+    else:
+        return False
     
-    return
+    
+s="2345"
+print(main(s))

@@ -6,5 +6,14 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+    #a=s.capitalize()
+    b=s.title()
+    # c=s.lower()
+    # d=s.upper()
+    # print(a)
+    # print(b)
+    # print(c)
+    # print(d)
+    return b
+s="beshikjdvfhb bsj nk lsdjf hvgjwdfhh"
+print(main(s))
